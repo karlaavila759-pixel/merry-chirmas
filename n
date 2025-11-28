@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Video Navideño</title>
+</head>
+<body style="background-color:#f0f0f0; text-align:center;">
+  <h1>🎄 ¡Feliz Navidad! 🎅</h1>
+  
+  <!-- Aquí va tu video -->
+  <video src="navidad.mp4" autoplay loop muted playsinline width="600"></video>
+  
+  <p>La magia de la Navidad nunca termina ✨</p>
+</body>
+</html>
